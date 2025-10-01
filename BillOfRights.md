@@ -24,7 +24,7 @@ The right of the people to be secure in their persons, houses, papers, and
 effects, against unreasonable searches and seizures, shall not be violated, and
 no warrants shall issue, but upon probable cause, supported by oath or
 affirmation, and particularly describing the place to be searched, and the
-persons or things to be seized.
+persons or things to be seized. and aslo taked.
 
 ## Amendment V.
 
